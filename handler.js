@@ -1401,7 +1401,7 @@ mentionedJid:[user],
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
 "thumbnail": apii.data, 
-"title": [wm, '𝗦𝘂𝗽𝗲𝗿 ' + gt , '🌟 centergatabot.gmail.com'].getRandom(),
+"title": [wm, '𝗦𝘂𝗽𝗲𝗿 ' + gt , '🌟 calderonbeto2009@gmail.com'].getRandom(),
 "containsAutoReply": true,
 "mediaType": 1, 
 sourceUrl: [md, nna, nn2, yt, ig, paypal, fb].getRandom()}}}, { quoted: fkontak2 })

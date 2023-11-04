@@ -1,7 +1,7 @@
 {
-"name": "GataBot-MD",
+"name": "Federico",
 "version": "1.4.9", 
-"description": "Super Bot WhatsApp",
+"description": "El peor bot WhatsApp",
 "main": "index.js",
 "type": "module",
     
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/GataNina-Li/GataBot-MD",
+"homepage": "https://github.com/Ratakk/federico6",
 "author": {
-"name": "GataNina-Li" }, 
+"name": "beto" }, 
     
 "repository": {
 "type": "git",
- "url": "git+https://github.com/GataNina-Li/GataBot-MD.git" },
+ "url": "git+https://github.com/Ratakk/federico6.git" },
  
 "bugs": {
-"url": "https://github.com/GataNina-Li/GataBot-MD/issues" },
+"url": "https://github.com/Ratakk/federico6/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "^6.5.0",

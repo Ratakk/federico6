@@ -43,7 +43,7 @@ global.lenguajeGB = es //Idioma de federico, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.openai_key = 'sk-0'
+global.openai_key = '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'
 /* Consigue tu ApiKey en este enlace: https://platform.openai.com/account/api-keys */
 
 global.openai_org_id = 'org-Vnxz3vcKhdvqDl80qCxWK0Cb' 
@@ -137,7 +137,7 @@ global.nnnttt2 = 'bruh' //Grupo 7 COL
 global.nnnttt3 = 'porque pierdl mi tiempo' //Grupo 8 COL
 global.nnnttt4 = 'lo típico' //Grupo 9 COL
 global.nnnttt5 = 'no hay nada' //A.T.M.M
-global.paypal = 'ni de coña uso paypal'
+global.paypal = 'ni de chiste uso paypal'
 global.asistencia = 'Wa.me/51904029891' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
